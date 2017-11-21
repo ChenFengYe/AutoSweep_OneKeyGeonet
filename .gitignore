@@ -2,4 +2,5 @@
 *.jpg
 *.txt
 *.pkl
-Evaluations
+*.npy
+# Evaluations
